@@ -1,0 +1,2 @@
+C:\Users\luisa\Desktop\Estructura de datos\C#\AlgoritoMatriz\obj\Debug\AlgoritoMatriz.csproj.AssemblyReference.cache
+C:\Users\luisa\Desktop\Estructura de datos\C#\AlgoritoMatriz\obj\Debug\AlgoritoMatriz.csproj.CoreCompileInputs.cache

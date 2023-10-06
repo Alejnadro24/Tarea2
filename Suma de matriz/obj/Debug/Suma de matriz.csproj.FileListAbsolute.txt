@@ -1,0 +1,7 @@
+C:\Users\luisa\Desktop\Estructura de datos\C#\Suma de matriz\obj\Debug\Suma de matriz.csproj.AssemblyReference.cache
+C:\Users\luisa\Desktop\Estructura de datos\C#\Suma de matriz\obj\Debug\Suma de matriz.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Desktop\Estructura de datos\C#\Suma de matriz\bin\Debug\Suma de matriz.exe.config
+C:\Users\luisa\Desktop\Estructura de datos\C#\Suma de matriz\bin\Debug\Suma de matriz.exe
+C:\Users\luisa\Desktop\Estructura de datos\C#\Suma de matriz\bin\Debug\Suma de matriz.pdb
+C:\Users\luisa\Desktop\Estructura de datos\C#\Suma de matriz\obj\Debug\Suma de matriz.exe
+C:\Users\luisa\Desktop\Estructura de datos\C#\Suma de matriz\obj\Debug\Suma de matriz.pdb

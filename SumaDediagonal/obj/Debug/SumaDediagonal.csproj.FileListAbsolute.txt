@@ -1,0 +1,2 @@
+C:\Users\luisa\Desktop\Estructura de datos\C#\SumaDediagonal\obj\Debug\SumaDediagonal.csproj.AssemblyReference.cache
+C:\Users\luisa\Desktop\Estructura de datos\C#\SumaDediagonal\obj\Debug\SumaDediagonal.csproj.CoreCompileInputs.cache
